@@ -1,0 +1,2 @@
+Javascript and JQuery to ensure that prompt response from the chatbot
+and the fetch the queries from the users
